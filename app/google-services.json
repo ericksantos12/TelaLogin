@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238579608778",
+    "project_id": "noobsystems-d31d6",
+    "storage_bucket": "noobsystems-d31d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238579608778:android:9e1600c38d2ad743ed1833",
+        "android_client_info": {
+          "package_name": "com.fatec.telalogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIXqlzwbV-AkDzD9t-FQX8phqeArZl0yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
