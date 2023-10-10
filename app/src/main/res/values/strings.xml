@@ -1,3 +1,45 @@
 <resources>
     <string name="app_name">TelaLogin</string>
+    <string name="Termos">
+\n
+TERMO DE USO DO APLICATIVO KIRBY\n
+\n
+Operado por Noobwire\n
+\n
+\n
+1. ACEITAÇÃO DOS TERMOS\n
+\n
+Ao acessar e usar o aplicativo Kirby, você concorda em se comprometer e estar vinculado por estes termos. Se você não concordar com algum destes termos, por favor, não utilize o aplicativo.\n
+\n
+\n
+2. ALTERAÇÕES NOS TERMOS\n
+\n
+A Noobwire reserva-se o direito de modificar ou substituir estes termos a qualquer momento. Se fizermos alterações, faremos um esforço razoável para informar os usuários através do aplicativo Kirby.\n
+\n
+\n
+3. USO DO APLICATIVO\n
+\n
+Você concorda em usar o aplicativo Kirby de maneira apropriada e legal. Qualquer uso indevido ou que viole estes termos resultará na suspensão ou encerramento de sua conta.\n
+\n
+\n
+4. LIMITAÇÃO DE RESPONSABILIDADE\n
+\n
+A Noobwire não será responsável por danos diretos, indiretos, incidentais ou consequenciais que resultem do uso ou incapacidade de usar o aplicativo Kirby.\n
+\n
+\n
+5. POLÍTICA DE PRIVACIDADE\n
+\n
+Seus dados pessoais são importantes para nós. Consulte nossa Política de Privacidade separada para entender como coletamos, usamos e protegemos suas informações.\n
+\n
+\n
+6. CONTATO\n
+\n
+Para qualquer dúvida relacionada a estes termos ou ao aplicativo Kirby, por favor, entre em contato conosco pelo e-mail noobwire@championstracker.com.\n
+\n
+\n
+7. LEI APLICÁVEL\n
+\n
+Estes termos são regidos e interpretados de acordo com as leis brasileiras, sem levar em conta seus conflitos de disposições legais.\n
+
+    </string>
 </resources>
