@@ -21,6 +21,7 @@
         android:orientation="vertical">
 
         <EditText
+            android:id="@+id/textEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="30dp"
@@ -30,24 +31,29 @@
             android:textSize="16sp" />
 
         <EditText
+            android:id="@+id/textSenha"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="30dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="30dp"
+            android:inputType="textPassword"
             android:hint="Senha"
             android:textSize="16sp" />
 
         <EditText
+            android:id="@+id/textConfirmarSenha"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="30dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="30dp"
+            android:inputType="textPassword"
             android:hint="Confirme sua senha"
             android:textSize="16sp" />
 
         <Button
+            android:id="@+id/btnCadastrar"
             android:layout_width="200dp"
             android:layout_height="65dp"
             android:layout_marginTop="40dp"
@@ -55,16 +61,35 @@
             android:text="CADASTRAR"
             android:textSize="22sp" />
 
-        <CheckBox
-            android:layout_width="wrap_content"
+        <LinearLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
-            android:text="Concordo com os Termos de Uso" />
+            android:gravity="center">
+
+            <CheckBox
+                android:id="@+id/checkConfirmar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="3dp"
+                android:text="Concordo com os" />
+
+            <TextView
+                android:id="@+id/textConfirmTermos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Termos de Uso"
+                android:textStyle="bold"
+                android:textColor="@color/rosakirby"/>
+
+        </LinearLayout>
+
+
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_marginTop="60dp"
+            android:layout_marginTop="50dp"
             android:text="Copyright © 2023 - NoobSystems"
             android:textSize="10sp" />
     </LinearLayout>
